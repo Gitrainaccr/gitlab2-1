@@ -8,6 +8,7 @@ public class student {
 		int y;
 		int z; 
 		System.out.println("hello world");
+		int b;
 	}
 
 }
