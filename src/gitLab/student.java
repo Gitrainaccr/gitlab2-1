@@ -6,6 +6,7 @@ public class student {
 		// TODO Auto-generated method stub
 		int x;
 		int y;
+		int z;
 	}
 
 }
